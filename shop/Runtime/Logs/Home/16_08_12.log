@@ -1,0 +1,40 @@
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-08-12T18:43:34+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-08-12T18:43:41+08:00 ] ::1 /730/shop/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+

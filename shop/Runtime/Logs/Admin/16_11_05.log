@@ -1,0 +1,10 @@
+[ 2016-11-05T18:37:21+08:00 ] ::1 /730/shop/index.php/Admin/Manager/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011773s ]
+
+[ 2016-11-05T18:37:22+08:00 ] ::1 /730/shop/index.php/Admin/Manager/yz
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+

@@ -1,0 +1,1906 @@
+[ 2016-08-01T15:17:59+08:00 ] ::1 /730/shop/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-08-01T15:17:59+08:00 ] ::1 /730/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-08-01T15:17:59+08:00 ] ::1 /730/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000465s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000764s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2016-08-01T15:17:59+08:00 ] ::1 /730/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000335s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `sw_goods`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001701s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001269s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001906s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-08-01T15:18:02+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+
+[ 2016-08-01T15:18:04+08:00 ] ::1 /730/shop/index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-01T15:18:09+08:00 ] ::1 /730/shop/index.php/Admin/Goods/addGoods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0600s ]
+NOTIC: [8] Undefined index: validate D:\php\wamp\wamp\www\730\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\php\wamp\wamp\www\730\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`) VALUES ('adasdfas','dasfasd','0','0','asdfasdf') [ RunTime:0.0771s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `sw_goods`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001434s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002664s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-01T15:18:10+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-08-01T15:18:11+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-08-01T16:13:28+08:00 ] ::1 /730/shop/index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007670s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-08-01T16:13:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/addGoods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0067s ]
+NOTIC: [8] Undefined index: validate D:\php\wamp\wamp\www\730\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\php\wamp\wamp\www\730\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `sw_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`) VALUES ('aaaaaaaa','121212','121212','121212','121212') [ RunTime:0.1535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `sw_goods` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `sw_goods`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+NOTIC: [8] Undefined variable: goods_small_img D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Admin\9ffc6102906faceb5f745e461293f525.php 第 53 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002118s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001697s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002141s ]
+
+[ 2016-08-01T16:13:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-08-01T16:29:03+08:00 ] ::1 /730/shop/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-08-01T16:29:03+08:00 ] ::1 /730/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T16:29:03+08:00 ] ::1 /730/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-08-01T16:29:03+08:00 ] ::1 /730/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006129s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005668s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001783s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-08-01T16:29:07+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+
+[ 2016-08-01T16:32:37+08:00 ] ::1 /730/shop/index.php/Admin/Goods/upGrade/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-08-01T16:42:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+
+[ 2016-08-01T16:50:32+08:00 ] ::1 /730/shop/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-08-01T16:50:32+08:00 ] ::1 /730/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-08-01T16:50:32+08:00 ] ::1 /730/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-01T16:50:32+08:00 ] ::1 /730/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000178s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011646s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003153s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006168s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2016-08-01T16:50:34+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-01T16:50:39+08:00 ] ::1 /730/shop/index.php/Admin/Goods/delete/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 参数错误或者未定义:id
+
+[ 2016-08-01T16:51:21+08:00 ] ::1 /730/shop/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-08-01T16:51:21+08:00 ] ::1 /730/shop/index.php/Admin/Index/head
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-01T16:51:21+08:00 ] ::1 /730/shop/index.php/Admin/Index/right
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002203s ]
+
+[ 2016-08-01T16:51:21+08:00 ] ::1 /730/shop/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/3_G_1241422082168.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001721s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001651s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+
+[ 2016-08-01T16:51:22+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002784s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002249s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003323s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031942s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-08-01T16:51:23+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-01T16:51:25+08:00 ] ::1 /730/shop/index.php/Admin/Goods/delete/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002536s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+
+ RunTime:0.000695s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003039s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001699s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-08-01T16:51:26+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015833s ]
+
+[ 2016-08-01T16:51:30+08:00 ] ::1 /730/shop/index.php/Admin/Goods/delete/id/59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001630s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001876s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/13_G_1241968002233.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023508s ]
+
+[ 2016-08-01T16:51:31+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-08-01T16:51:35+08:00 ] ::1 /730/shop/index.php/Admin/Goods/delete/id/58
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/4_G_1241422402722.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/32_G_1242110760868.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/10_G_1242973436141.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/12_G_1241965978209.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/7_G_1241422785856.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/14_G_1241968492932.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/15_G_1242973362318.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/16_G_1241968949002.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/17_G_1241969394677.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/20_G_1242106490663.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/19_G_1241970175091.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/9_G_1241511871574.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005512s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/23_G_1241971556855.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/21_G_1242109298873.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/25_G_1241972709544.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/26_G_1241972789293.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/24_G_1241971981284.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002059s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/27_G_1241972894061.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/28_G_1241972976313.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/200905/goods_img/8_G_1241425513055.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/29_G_1241973022206.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/22_G_1241971076358.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/31_G_1242110412332.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-08-01T16:51:36+08:00 ] ::1 /730/shop/index.php/Admin/Goods/images/200905/goods_img/30_G_1241973114234.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+

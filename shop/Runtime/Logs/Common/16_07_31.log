@@ -1,0 +1,12 @@
+[ 2016-07-31T10:18:49+08:00 ] ::1 /730/shop/index.php/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+ERR: 无法加载模块:Goods
+
+[ 2016-07-31T10:19:37+08:00 ] ::1 /730/shop/index.php/Goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Goods
+

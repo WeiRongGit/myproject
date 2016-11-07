@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+        <title>权限列表</title>
+
+        <link href="__PUBLIC____CSS__mine.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+        <style>
+            .tr_color{background-color: #9F88FF}
+        </style>
+        <div class="div_head">
+            <span>
+                <span style="float: left;">当前位置是：权限管理-》权限列表列表</span>
+                <span style="float: right; margin-right: 8px; font-weight: bold;">
+                    <a style="text-decoration: none;" href="__URL__/add">【添加权限】</a>
+                </span>
+            </span>
+        </div>
+        
+      
+        <div style="font-size: 13px; margin: 10px 5px;">
+            <table class="table_a" border="1" width="100%">
+                <tbody><tr style="font-weight: bold;">
+                        <td>序号</td>
+                        <td>权限名称</td>
+                        <td>操作器</td>
+                        <td>操作方法</td>
+                        <td >全路径</td>
+                    </tr>
+                    <volist name="auth" id="auth">
+                    <tr>
+                        <td>{$auth.auth_id}</td>
+                        <td>{$auth.auth_name}</a></td>
+                        <td>{$auth.auth_c}</td>
+                        <td>{$auth.auth_a}</td>
+                        <td>{$auth.auth_path}</td>
+                    </tr>
+                    </volist>
+                   
+                </tbody>
+               
+                </tfoot>
+            </table>
+        </div>
+    </body>
+</html>

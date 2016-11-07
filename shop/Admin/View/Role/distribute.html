@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+ 
+ ul,li{
+ 	list-style: none;
+ }
+
+</style>
+</head>
+<script type="text/javascript">
+
+	function check(ids){
+		//var id =  parseInt(ids);
+		var id = ids;
+		document.getElementById(id).checked= true;
+	}
+
+</script>
+
+<body>
+	{$data.role_name}
+	<form action="" method="post">
+		<ul>
+			<foreach name="authData0" item="parent">
+			 <li>
+			 <input name="authname[]" value="{$parent.auth_id}" type="checkbox" id={$parent.auth_id}>{$parent.auth_name}
+			  <in name="parent['auth_id']" value="$data['role_auth_ids']"> 
+			      <script type="text/javascript">
+				   check({$parent.auth_id})
+			 	  </script> 
+			  </in> 
+			 	
+			 	<ul>
+			 	 <foreach name="authData1" item="child"> 
+			 	 	<if condition="$parent['auth_id'] eq $child['auth_pid']">
+			 	 	<li>
+			 	 		 <ul>
+			 	 		 <li>
+			    			<input	name="authname[]" value="{$child.auth_id}" type="checkbox"	id="{$child.auth_id}"> {$child.auth_name}
+			 	 		 </li>
+			 	 		  <ul>
+			 	 		  	   <foreach name="authData2" item="child2">
+								 	<if condition="$child2['auth_pid'] eq $child['auth_id']">
+			 	 		  	<li>
+								 	    <input name="authname[]" value="{$child2.auth_id}" type="checkbox"	id="{$child2.auth_id}"> {$child2.auth_name}
+			 	 		  	</li>
+			 	 		  			 <in name="child2['auth_id']" value="$data['role_auth_ids']">
+			 	 						<script type="text/javascript">
+										check({$child2.auth_id})
+			 	 						</script>
+			 						 </in>
+			 	 		  				
+								 	
+								 	</if> 		  	   
+			 	 		  	   </foreach>
+			 	 		  	
+			 	 		  </ul>
+			 	 		 </ul>
+			 	 	</li>
+									    		
+			    		
+			    		
+			   
+			 	 <in name="child['auth_id']" value="$data['role_auth_ids']">
+			 	 	<script type="text/javascript">
+						check({$child.auth_id})
+			 	 	</script>
+			 	 </in>
+			 	   </if> 
+			 	  </foreach> 
+			 	</ul>
+			 	</li>
+			 	
+			 	</foreach>
+			 
+		</ul>
+		<input type="submit" value="提交">
+	</form>
+
+</body>
+</html>

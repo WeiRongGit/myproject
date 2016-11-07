@@ -1,0 +1,2703 @@
+[ 2016-08-03T17:01:28+08:00 ] ::1 /730/shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-08-03T17:01:29+08:00 ] ::1 /730/shop/index.php/Home/User/images/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-08-03T17:01:35+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-03T17:02:50+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-08-03T17:02:51+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000442s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+766s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001985s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000350s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001291s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-08-03T17:03:34+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009537s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-08-03T17:04:08+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-08-03T17:04:28+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000152s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-08-03T17:05:02+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001644s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/__css__/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+ERR: 非法操作:__css__
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-08-03T17:05:03+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-08-03T17:05:18+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001245s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-08-03T17:05:30+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002785s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-08-03T17:05:39+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-08-03T17:05:47+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+
+[ 2016-08-03T17:05:48+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001150s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-08-03T17:07:24+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+
+[ 2016-08-03T17:14:29+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001226s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+
+[ 2016-08-03T17:14:34+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-08-03T17:14:36+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 16 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 65 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009662s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001099s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001540s ]
+
+[ 2016-08-03T17:14:38+08:00 ] ::1 /730/shop/index.php/Home/User/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 96 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-08-03T17:15:41+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010450s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-08-03T17:17:02+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+
+[ 2016-08-03T17:20:42+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001033s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+
+[ 2016-08-03T17:28:28+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 70 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 73 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 218 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 275 行.
+NOTIC: [8] Undefined variable: smarty D:\php\wamp\wamp\www\730\shop\Runtime\Cache\Home\de072f9c0d060d583d0b426b72932984.php 第 278 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+
+[ 2016-08-03T17:29:26+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-08-03T17:29:37+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-08-03T17:30:10+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-08-03T17:30:11+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-03T17:49:21+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+
+[ 2016-08-03T17:49:22+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+
+[ 2016-08-03T17:49:48+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-08-03T17:49:49+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+
+[ 2016-08-03T17:49:50+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-08-03T17:50:12+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-08-03T17:50:13+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-08-03T17:50:15+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001778s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004523s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-08-03T17:50:16+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-03T17:52:26+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+
+[ 2016-08-03T17:52:56+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-08-03T17:52:57+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-08-03T17:53:58+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002162s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-08-03T17:56:51+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2016-08-03T17:58:27+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001863s ]
+
+[ 2016-08-03T17:58:28+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-08-03T17:59:04+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-03T18:00:14+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-08-03T18:00:47+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-08-03T18:02:00+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-08-03T18:05:17+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-08-03T18:06:56+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-08-03T18:06:58+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-08-03T18:08:29+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-08-03T18:08:30+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-08-03T18:08:40+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-08-03T18:08:59+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-08-03T18:11:04+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001506s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-08-03T18:16:52+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2016-08-03T19:44:53+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-03T19:45:21+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-08-03T19:48:18+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2016-08-03T19:48:24+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001798s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002594s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-08-03T19:48:30+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-08-03T20:48:59+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-08-03T20:49:05+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-08-03T20:49:29+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-08-03T20:49:34+08:00 ] ::1 /730/shop/index.php/Home/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 模板不存在:D:/php/wamp/wamp/www/730/shop/Home/View/User/index.html
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+
+[ 2016-08-03T20:49:38+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-08-03T20:49:40+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-08-03T20:49:48+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-08-03T20:50:41+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-08-03T20:50:43+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-08-03T20:51:19+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+
+[ 2016-08-03T20:51:25+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2016-08-03T20:51:53+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-08-03T20:51:55+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-08-03T20:51:58+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/register_check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-08-03T20:52:11+08:00 ] ::1 /730/shop/index.php/Home/User/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
